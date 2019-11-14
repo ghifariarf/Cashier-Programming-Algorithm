@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1511793416 source:e:\kuliah\tokog\main.cpp
+	<iostream>
+	<stdlib.h>
+	"barang.h"
+	"menu.h"
+	"transaksi.h"
+	"regis.h"
+	"login.h"
+
+1511679927 e:\kuliah\tokog\include\barang.h
+
+1511793612 e:\kuliah\tokog\include\menu.h
+	"barang.h"
+	"login.h"
+	"transaksi.h"
+	"menu.h"
+	<string.h>
+
+1511771005 source:e:\kuliah\tokog\src\barang.cpp
+	"barang.h"
+	"menu.h"
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
+1511793993 source:e:\kuliah\tokog\src\menu.cpp
+	"menu.h"
+	"transaksi.h"
+	"barang.h"
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1511491049 e:\kuliah\tokog\include\transaksi.h
+	"barang.h"
+
+1511614876 source:e:\kuliah\tokog\src\transaksi.cpp
+	"transaksi.h"
+	"menu.h"
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
+1511489906 e:\kuliah\tokog\include\analisis.h
+	"barang.h"
+	"transaksi.h"
+
+1511490805 source:e:\kuliah\tokog\src\analisis.cpp
+	"analisis.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1511491991 source:e:\kuliah\tokog\src\karyawan.cpp
+	"karyawan.h"
+
+1511491991 e:\kuliah\tokog\include\karyawan.h
+
+1511508445 e:\kuliah\tokog\include\register.h
+
+1511793898 source:e:\kuliah\tokog\src\login.cpp
+	"login.h"
+	"regis.h"
+	"menu.h"
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<process.h>
+	<fstream>
+
+1511793685 e:\kuliah\tokog\include\login.h
+	"regis.h"
+
+1511609748 e:\kuliah\tokog\include\regis.h
+	<string>
+
+1511753587 source:e:\kuliah\tokog\src\regis.cpp
+	"regis.h"
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<process.h>
+
+1511610858 e:\kuliah\tokog\include\global.h
+
+1511611477 e:\kuliah\tokog\include\globall.h
+	<string.h>
+
+1511611784 source:e:\kuliah\tokog\src\globall.cpp
+	"globall.h"
+	<string.h>
+	<iostream>
+
+1511614864 source:e:\kuliah\tokog\src\pelanggan.cpp
+	"pelanggan.h"
+	<iostream>
+
+1511614874 e:\kuliah\tokog\include\pelanggan.h
+
